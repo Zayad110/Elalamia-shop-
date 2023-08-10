@@ -1,0 +1,11 @@
+body{
+    background: url(/css/stars1.png);
+  height: 100vh;
+  display: flex;
+}
+img{
+  margin-right: 10px;
+}
+p{
+  text-align: center;
+}
